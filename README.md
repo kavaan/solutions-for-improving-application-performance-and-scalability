@@ -2,6 +2,8 @@
 
 Building fast, scalable, and reliable applications is essential. This guide covers key solutions to improve performance, manage scalability, and enhance resilience. Explore the best tools and techniques to keep your applications running smoothly, from efficient resource management to optimizing microservices communication.  
 
+<img src="https://raw.githubusercontent.com/kavaan/solutions-for-improving-application-performance-and-scalability/refs/heads/main/solutions-for-improving-application-performance-and-scalability.jpg"/>
+
 ## 🎯 Feature Flags  
 **Problem:** Releasing new features often requires redeployment, causing application downtime and complicating rollbacks.  
 
